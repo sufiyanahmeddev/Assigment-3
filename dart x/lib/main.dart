@@ -1,8 +1,8 @@
 void main(){
-  //answer number 3
-  List days = ['monday','tuesday','wednesday','thrusday','friday','saturday','sunday'];
- days.removeRange(0, days.length);
- print(days);
+  //answer number 4
+  List number = ['10','40','30','35','20','90','29'];
+  number.sort();
+  print(number);
 
 
 
